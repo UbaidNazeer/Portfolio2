@@ -85,5 +85,17 @@ li a:hover{
 
 /*-------------------Main---------------------------------*/
 .extra-div{
+    width: 100%;
+    height: auto;
     margin-top: 100px;
+}
+.ex-div{
+    text-align: center;
+    border: medium none;
+    border-radius: 3px;
+    transition: 0.3s;
+    padding: 50px!important;
+}
+.ex-div h1{
+    font-weight: bold;
 }
