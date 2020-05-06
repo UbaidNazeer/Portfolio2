@@ -9,7 +9,7 @@
 <body>
 <div class="header" id="top-header">
     <nav class="navbar navbar-expand-md navbar-dark bg-dark">
-        <div class="container text-center text-uppercase p-2">
+        <div class="container text-center text-uppercase p-1">
             <a href="#" class="navbar-brand">Porfolio</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navcollapse">
                 <span class="navbar-toggler-icon"></span>
@@ -24,6 +24,18 @@
             </div>
         </div>
     </nav>
+    <section>
+        <div class="top-text">
+            <div class="font-bold">
+                <h1 class="font-weight-bold">We are the developers.</h1>
+                <p>We are creating world best websites.</p>
+                <div class="top-buttons">
+                    <a href="#">About</a>
+                    <a href="#">Contact</a>
+                </div>
+            </div>
+        </div>
+    </section>
 </div>
     
      
