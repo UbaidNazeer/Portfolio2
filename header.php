@@ -10,7 +10,7 @@
 <div class="header" id="top-header">
     <nav class="navbar navbar-expand-md">
         <div class="container text-center text-uppercase p-1">
-            <a href="#" class="navbar-brand text-white">Porfolio</a>
+            <a href="#" class="navbar-brand text-white font-weight-bold">Porfolio</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navcollapse">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -24,7 +24,7 @@
             </div>
         </div>
     </nav>
-    <section>
+    <section class="header-section">
         <div class="top-text">
             <div class="font-bold">
                 <h1 class="font-weight-bold">We are the developers.</h1>
