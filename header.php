@@ -8,9 +8,9 @@
 </head>
 <body>
 <div class="header" id="top-header">
-    <nav class="navbar navbar-expand-md navbar-dark bg-dark">
+    <nav class="navbar navbar-expand-md">
         <div class="container text-center text-uppercase p-1">
-            <a href="#" class="navbar-brand">Porfolio</a>
+            <a href="#" class="navbar-brand text-white">Porfolio</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navcollapse">
                 <span class="navbar-toggler-icon"></span>
             </button>

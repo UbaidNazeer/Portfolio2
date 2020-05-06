@@ -10,7 +10,31 @@
     background-repeat: no-repeat;
     background-size: 100% 100%;
     clip-path:polygon(100% 0,100% 75%,50% 100%,0 75%,0 75%,0 0);
+    position: relative;
 }
-.top-text{
-    
+.header:before{
+    content: "";
+    position: absolute;
+    top: 0%;
+    bottom: 0%;
+    left:0%;
+    right: 0%;
+    background: linear-gradient(to right, #1e5799 0%,#3ccdbb 0%,#16c9f6 100%);
+    opacity: .3;
+    z-index: -1;
+}
+.navbar:before{
+    content: "";
+    position: absolute;
+    top: 0%;
+    bottom: 0%;
+    left:0%;
+    right: 0%;
+    background: linear-gradient(to right, #1e5799 0%,#3ccdbb 0%,#16c9f6 100%);
+    opacity: .3;
+    z-index: -1;
+}
+.nav-item a{
+    color: white;!important;
+    font-weight: bold;
 }
