@@ -82,3 +82,8 @@ li a:hover{
     background-color: white;
     font-weight: bold;
 }
+
+/*-------------------Main---------------------------------*/
+.extra-div{
+    margin-top: 100px;
+}
