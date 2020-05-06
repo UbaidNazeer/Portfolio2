@@ -90,12 +90,19 @@ li a:hover{
     margin-top: 100px;
 }
 .ex-div{
+    width: 100%;
     text-align: center;
     border: medium none;
     border-radius: 3px;
     transition: 0.3s;
     padding: 50px!important;
+    
 }
 .ex-div h1{
     font-weight: bold;
+    padding: 20px;
+}
+.ex-div:hover{
+    box-shadow: 0 0 20px 0 rgba(0,0,0,0.3);
+    transform: translate(0%,-20%);
 }
