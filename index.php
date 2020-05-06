@@ -13,7 +13,7 @@
          <section class="extra-div">
              <div class="container">
                  <div class="row">
-                     <div class=" ex-div col-lg-4 col-md-4 col-sm-4 ">
+                     <div class=" ex-div col-lg-4 col-md-4 col-12">
                         <i class="fa fa-3x fa-desktop"></i>
                         <h1>Desktop</h1>
                         <p>We are professional developers.
@@ -21,7 +21,7 @@
                         We are professional developers.</p>
                          
                      </div>
-                     <div class="ex-div col-lg-4 col-md-4 col-sm-4 ">
+                     <div class="ex-div col-lg-4 col-md-4 col-12">
                         <i class="fa fa-3x fa-trophy"></i>
                         <h1>Awesome Design</h1>
                         <p>We are professional developers.
@@ -29,7 +29,7 @@
                         We are professional developers.</p>
                          
                      </div>
-                     <div class="ex-div col-lg-4 col-md-4 col-sm-4">
+                     <div class="ex-div col-lg-4 col-md-4 col-12">
                         <i class="fa  fa-3x fa-magic"></i>
                         <h1>Easy to Customize</h1>
                         <p>We are professional developers.
