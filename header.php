@@ -8,7 +8,7 @@
 </head>
 <body>
 <div class="header" id="top-header">
-    <nav class="navbar navbar-expand-md">
+    <nav class="navbar navbar-expand-md fixed-top">
         <div class="container text-center text-uppercase p-1">
             <a href="#" class="navbar-brand text-white font-weight-bold">Porfolio</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navcollapse">
