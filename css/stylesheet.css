@@ -56,14 +56,9 @@ li a:hover{
     position: relative;
 }
 .top-text{
-    position: absolute;
     width: 100%;
     height: auto;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%,-50%);
-    -ms-transform: translate(-50%,-50%);
-    -webkit-transform: translate(-50%,-50%);
+    margin-top: 230px;
     
 }
 .top-buttons a{
@@ -92,9 +87,8 @@ li a:hover{
 .ex-div{
     width: 100%;
     text-align: center;
-    border: medium none;
     border-radius: 3px;
-    transition: 0.3s;
+    transition: 0.4s;
     padding: 50px!important;
     
 }

@@ -8,7 +8,7 @@
 </head>
 <body>
 <div class="header" id="top-header">
-    <nav class="navbar navbar-expand-md fixed-top">
+    <nav class="navbar navbar-expand-md ">
         <div class="container text-center text-uppercase p-1">
             <a href="#" class="navbar-brand text-white font-weight-bold">Porfolio</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navcollapse">
@@ -30,7 +30,7 @@
                 <h1 class="font-weight-bold">We are the developers.</h1>
                 <p>We are creating world best websites.</p>
                 <div class="top-buttons">
-                    <a href="#">About</a>
+                    <a href="about.php">About</a>
                     <a href="#">Contact</a>
                 </div>
             </div>
