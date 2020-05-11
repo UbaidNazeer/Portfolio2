@@ -40,15 +40,15 @@ We are professional developers.</p>
 </div>
 </div>
 </section>
-<section class="dev">
-<div class="container-fluid bg-light p-2">
+<section class="services bg-light">
+<div class="container p-2">
 <h1 class="text-center">What we offers</h1>
 
-<div class="container bg-light p-2">
+<div class="container p-2">
 <div class="row">
 <div class="col-lg-6 col-md-12 col-10">
 <div class="names">
-    <h1 class="">HTML</h1>
+    <h1>HTML</h1>
 </div>
 <div class="progress w-75">
 <div class="progress-bar bg-info progress-bar-striped progress-bar-animated" style="width:100%">100%</div>
@@ -73,9 +73,9 @@ We are professional developers.</p>
 </div>
 
 </div>
-<div class="col-lg-6 col-md-12 col-10">
+<div class="col-lg-6 col-md-12 col-10 servdetail">
    <div class="row">
-       <div class="col-lg-2 col-2">
+       <div class="col-lg-2 col-2 text-info my-2">
            <i class="fa  fa-3x fa-desktop"></i>
        </div>
        <div class="col-lg-10 col-10">
@@ -85,7 +85,7 @@ We are professional developers.</p>
        </div>
    </div>
    <div class="row">
-       <div class="col-lg-2 col-2">
+       <div class="col-lg-2 col-2 text-info my-2">
            <i class="fa  fa-3x fa-wifi"></i>
        </div>
        <div class="col-lg-10 col-10">
@@ -95,7 +95,7 @@ We are professional developers.</p>
        </div>
    </div>
    <div class="row">
-       <div class="col-lg-2 col-2">
+       <div class="col-lg-2 col-2 text-info my-2">
            <i class="fa  fa-3x fa-phone"></i>
        </div>
        <div class="col-lg-10 col-10">

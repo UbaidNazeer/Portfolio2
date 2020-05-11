@@ -100,3 +100,11 @@ li a:hover{
     box-shadow: 0 0 20px 0 rgba(0,0,0,0.3);
     transform: translate(0%,-20%);
 }
+
+.names h1{
+    font-size: 1.5rem;
+       margin-top: 40px;
+}
+.servdetail{
+    margin-top: 50px;
+}
