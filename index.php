@@ -74,8 +74,8 @@ We are professional developers.</p>
 
 </div>
 <div class="col-lg-6 col-md-12 col-10 servdetail">
-   <div class="row">
-       <div class="col-lg-2 col-2 text-info my-2">
+   <div class="row miniservice">
+       <div class="col-lg-2 col-2 text-info my-3">
            <i class="fa  fa-3x fa-desktop"></i>
        </div>
        <div class="col-lg-10 col-10">
@@ -84,8 +84,8 @@ We are professional developers.</p>
            We have a team of professional developers.</p>
        </div>
    </div>
-   <div class="row">
-       <div class="col-lg-2 col-2 text-info my-2">
+   <div class="row miniservice">
+       <div class="col-lg-2 col-2 text-info my-3">
            <i class="fa  fa-3x fa-wifi"></i>
        </div>
        <div class="col-lg-10 col-10">
@@ -94,8 +94,8 @@ We are professional developers.</p>
            We have a team of professional developers.</p>
        </div>
    </div>
-   <div class="row">
-       <div class="col-lg-2 col-2 text-info my-2">
+   <div class="row miniservice">
+       <div class="col-lg-2 col-2 text-info my-3">
            <i class="fa  fa-3x fa-phone"></i>
        </div>
        <div class="col-lg-10 col-10">

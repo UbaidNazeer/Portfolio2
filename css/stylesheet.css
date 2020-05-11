@@ -105,6 +105,18 @@ li a:hover{
     font-size: 1.5rem;
        margin-top: 40px;
 }
-.servdetail{
+.servdetail, .names{
     margin-top: 50px;
+    
+}
+.servdetail h1{
+    font-size: 1.9rem;
+    margin-bottom: 10px;
+    
+}
+.servdetail p{
+    font-size: 15px;
+}
+.miniservice{
+    margin-bottom: 20px;
 }
