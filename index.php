@@ -71,7 +71,12 @@ We are professional developers.</p>
 <div class="progress w-75">
 <div class="progress-bar progress-bar-striped progress-bar-animated bg-info" style="width:50%">50%</div>
 </div>
-
+<div class="names">
+    <h1 class="">JQUERY</h1>
+</div>
+<div class="progress w-75">
+<div class="progress-bar progress-bar-striped progress-bar-animated bg-warning" style="width:80%">80%</div>
+</div>
 </div>
 <div class="col-lg-6 col-md-12 col-10 servdetail">
    <div class="row miniservice">
