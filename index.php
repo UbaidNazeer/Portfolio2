@@ -45,7 +45,7 @@ We are professional developers.</p>
 <h1 class="text-center">What we offers</h1>
 
 <div class="container p-2">
-<div class="row">
+<div class="row namservice">
 <div class="col-lg-6 col-md-12 col-10">
 <div class="names">
     <h1>HTML</h1>
